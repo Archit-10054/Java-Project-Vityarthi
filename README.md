@@ -1,4 +1,5 @@
 Project Title: Hospital Management System in Java
+
 Description:
 The Hospital Management System is a simple Java console application designed to manage essential operations in a hospital setting. This system enables the user to add and manage patients, doctors, and appointments through a user-friendly text-based menu interface.
 
